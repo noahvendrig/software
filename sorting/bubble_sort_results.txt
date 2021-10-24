@@ -1,0 +1,19 @@
+n: 25
+avg_time: 0.00019766356989998928
+avg_swaps: 147.002865
+expected_swaps: 150.0
+avg_passes: 1.9e-05
+
+n: 9
+avg_time: 2.445093819999974e-05
+avg_swaps: 16.188855
+expected_swaps: 18.0
+avg_passes: 6e-06
+
+n_tests: 100
+n_elements: 10
+avg_time: 3.0321999999999294e-05
+avg_swaps: 21.51
+expected_swaps: 22.5
+avg_passes: 0.06
+
