@@ -17,3 +17,10 @@ avg_swaps: 21.51
 expected_swaps: 22.5
 avg_passes: 0.06
 
+n_tests: 1000000000
+n_elements: 10
+avg_time: 3.161748513335903e-05
+avg_swaps: 22.275099121
+expected_swaps: 22.5
+avg_passes: 5e-09
+
